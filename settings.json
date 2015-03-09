@@ -1,0 +1,6 @@
+{
+    "save_path": "mp3s/",
+    "errors_file": "log_errors.txt",
+    "overwrite_files": true,
+    "song_list_path": "songs.txt",
+}
