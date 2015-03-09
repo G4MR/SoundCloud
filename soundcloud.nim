@@ -129,4 +129,6 @@ else:
     echo "\n\nDownloads complete\n\n"
 
 echo "Press enter to exit..."
-var exit = readLine(stdin)
+
+# lazy exit/wait (not sure if nim has a pause function)
+let exit = readLine(stdin)

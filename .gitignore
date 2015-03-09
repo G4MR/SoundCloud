@@ -1,4 +1,5 @@
 nimcache/*
+mp3s/*.mp3
 test.nim
 test.txt
 *.exe
